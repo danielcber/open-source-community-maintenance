@@ -20,7 +20,7 @@ Your README file is generally the go-to document for people to understand, insta
 
 ## Chapter 7: Edit your package, Jason
 
-package.json is a plain JSON (Java Script Objet Notation) text file which contains the metadata information about your module and is the best way to manage locally installed npm packages. By adding this metadata information to your module you identify it as a unique package, allowing for other developers to to install and update your module using npm. The package.json file also defines which packages your module depends on and allows you to specificy which versions of those packages it should use.
+[`package.json`](https://docs.npmjs.com/files/package.json) is a plain JSON (Java Script Objet Notation) text file which contains the metadata information about your module and is the best way to manage locally installed npm packages. By adding this metadata information to your module you identify it as a unique package, allowing for other developers to to install and update your module using npm. The package.json file also defines which packages your module depends on and allows you to specificy which versions of those packages it should use.
 
 TK More on these, here: docs.npmjs.com/files/package.json
 
