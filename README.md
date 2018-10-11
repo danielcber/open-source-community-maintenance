@@ -16,7 +16,7 @@ This is a list of notes, tools, and resources for how to run an open source comm
 
 ## Chapter 1: Read the thing that says "README"
 
-TK
+Your README file is generally the go-to document for people to understand, install, use and interact with your module. Standardizing how your README files are written ensure that they have all the elements necessary for people to easily understand and engage with your module. By using a Standard README format, the process of creating and maintaining accurate and well-written documentation that describes what your module is for, how it can be installed, how it is used, and any other relevant details, will be far easier for you.
 
 ## Install / Usage
 
