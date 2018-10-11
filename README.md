@@ -20,6 +20,8 @@ Your README file is generally the go-to document for people to understand, insta
 
 ## Chapter 7: Edit your package, Jason
 
+TK More on these, here: docs.npmjs.com/files/package.json
+
 #### `authors`
 
 The "author" field in a package.json file indicates the person who wrote the package, allowing the publisher to share the author's name, email, and url. The "author" field gives credit to the person for writing the package and shares their contact information for people to contact, or learn more about, the author and their projects.
