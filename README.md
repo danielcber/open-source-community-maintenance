@@ -22,6 +22,14 @@ Your README file is generally the go-to document for people to understand, insta
 
 TK More on these, here: docs.npmjs.com/files/package.json
 
+#### `bugs`
+
+The "bugs" field contains the information which people need to report issues with your module. The field can be populated with a url to your module's issue tracker and/or the email address to which such issues should be reported. Including this information allows for any potential issues with your module to be reported by other developers.
+
+#### `homepage`
+
+The "homepage" field contains the url to your project's homepage. Including this information in package.json allows for developers to find your project's homepage and all the valuable information it contains.
+
 #### `authors`
 
 The "author" field in a package.json file indicates the person who wrote the package, allowing the publisher to share the author's name, email, and url. The "author" field gives credit to the person for writing the package and shares their contact information for people to contact, or learn more about, the author and their projects.
