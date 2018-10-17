@@ -36,6 +36,14 @@ The "homepage" field contains the url to your project's homepage. Including this
 
 The "author" field in a package.json file indicates the person who wrote the package, allowing the publisher to share the author's name, email, and url. The "author" field gives credit to the person for writing the package and shares their contact information for people to contact, or learn more about, the author and their projects.
 
+## Chapter 8: Your license
+
+Adding a license to your open source project is essential for lettings other users know what they can and cannot do with your code, so you should share this information in your README.md file. As there are a wide variety of open source licenses out there, you can use [www.choosealicense.com](www.choosealicense.com) to choose the right fit for your project.
+
+Licenses can be lengthy, so once you have chosen the right one, include it in a LICENSE.txt or LICENSE.md file in the root of your repository. Then, you will want to reference it in your README.md's "License" section in an abbreviated fashion. This way, your are informing users on how they can and cannot use your code AND keeping your README.md file clean and concise.
+
+For example, if you use the MIT License you can abbreviate it in your "License" section as: [MIT](https://github.com/RichardLitt/get-github-shortname/blob/master/LICENSE.md) © 2018 Richard Littauer.
+
 ## Install / Usage
 
 This is a documentation-only repository. There's nothing to install. There's nothing to run. Just read, for now.
