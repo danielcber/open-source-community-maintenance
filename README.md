@@ -42,7 +42,7 @@ Adding a license to your open source project is essential for lettings other use
 
 Licenses can be lengthy, so once you have chosen the right one, include it in a LICENSE.txt or LICENSE.md file in the root of your repository. Then, you will want to reference it in your README.md's "License" section in an abbreviated fashion. This way, your are informing users on how they can and cannot use your code AND keeping your README.md file clean and concise.
 
-For example, if you use the MIT License you can abbreviate it in your "License" section as: [MIT](https://github.com/RichardLitt/get-github-shortname/blob/master/LICENSE.md) © 2018 Richard Littauer.
+For example, if you use the MIT License you can abbreviate it in your "License" section as: [MIT](https://github.com/RichardLitt/get-github-shortname/blob/master/LICENSE.md) © 2018 Richard Littauer. For a second example, check out this README.md file's "License" section!
 
 ## Install / Usage
 
